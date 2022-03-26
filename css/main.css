@@ -1,0 +1,121 @@
+.Fondo {
+    background-color: #f0f0f0;
+}
+
+.bg-gray {
+    background-color: #2C2A29 !important;
+}
+
+.navbar-brand {
+    background: url(http://disputebills.com/site/uploads/2015/10/dispute.png) center / contain no-repeat;
+    width: 230px;
+  }
+
+
+.featurette-heading {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+.lead {
+    font-size: 36px;
+    font-weight: 700;
+    font-family: sans-serif;
+}
+
+.infobase {
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.carousel-control-prev {
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    background-color: #fdda24;
+    border-radius: 50%;
+    font-size: 24px;
+    bottom: 50%;
+    margin-top: auto;
+}
+
+.carousel-control-next {
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    background-color: #fdda24;
+    border-radius: 50%;
+    font-size: 24px;
+    bottom: 50%;
+    margin-top: auto;
+}
+
+.containertercermenu {
+    padding-left: 13%;
+    padding-right: 12%;
+}
+
+.tercermenu {
+    background: #fff;
+    padding-top: 10px;
+}
+
+.tercermenu a {
+    text-decoration: none;
+    color: #000;
+    
+}
+
+
+
+
+.botonrosa {
+    background-color: #F5B6CD;
+}
+
+
+.Inversionvirtual {
+    background-color: #f5b6cd;
+    width: 50%;
+
+}
+
+.invirutal {
+    padding-left: 0%;
+}
+
+.flypass {
+    background-color: #00c389;
+    width: 25%;
+    margin-left: 20px;
+}
+
+.tu360movilidad {
+    background-color: #fdda24;
+    width: 25%;
+    margin-left: 20px;
+}
+
+.botonrecomendaciones {
+    border-radius: 40px;
+    border: 1px solid #2C2A29;
+    background: transparent;
+}
+
+.oferta {
+    width: 550px;
+}
+
+.botonoferta {
+    border-radius: 100px;
+    width: auto;
+    height: auto;
+    padding: 13px 32px;
+}
+
+.titulosfooters {
+    color: #f0f0f0;
+}
